@@ -1,1 +1,9 @@
 To run both - npm run dev
+
+add these to .env
+PORT = 
+MONGO_URL=
+JWT_SECRET=
+BRAINTREE_MERCHANT_ID =
+BRAINTREE_PUBLIC_KEY =
+BRAINTREE_PRIVATE_KEY =
