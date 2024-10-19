@@ -35,9 +35,9 @@ Install my-project with npm
 
 To view deployed project
 
-```bash
+
   https://kawaii-shop.onrender.com/
-```
+
 
 
 ## Environment Variables
